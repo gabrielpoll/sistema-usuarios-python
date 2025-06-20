@@ -1,0 +1,8 @@
+[
+  {
+    "nome": "Usuario Teste",
+    "idade": 20,
+    "email": "teste@example.com",
+    "cpf": 12345678900
+  }
+]
